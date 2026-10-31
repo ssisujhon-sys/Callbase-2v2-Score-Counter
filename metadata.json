@@ -1,0 +1,6 @@
+{
+  "name": "Callbase 2v2 Score Counter",
+  "description": "Calculate and track 2 vs 2 Callbase card game scores, player bids (50, 100, 150, 200), round points, and match history with offline PWA & Android support in English and Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
